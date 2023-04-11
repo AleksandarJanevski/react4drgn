@@ -1,0 +1,4 @@
+export const POST_STAFF = 'POST_STAFF'
+export const GET_CURRENT_STAFF = 'GET_CURRENT_STAFF'
+export const GET_ALL_STAFF = 'GET_ALL_STAFF'
+export const POST_ALL_STAFF = 'POST_ALL_STAFF'
